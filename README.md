@@ -1,4 +1,4 @@
-# Hi, I'm [Yuda Wahfiudin] 👋
+# Hi, I'm Yuda Wahfiudin 👋
 
 I'm a **Web Developer** at **PT Kahatex**, currently working with **CodeIgniter 4** as my preferred PHP framework. 
 I also have a strong interest in mobile development, especially with **Kotlin** for building Android applications.
