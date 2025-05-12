@@ -19,6 +19,11 @@ I also have a strong interest in mobile development, especially with **Kotlin** 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ydwhf&show_icons=true&count_private=true&hide=prs&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ydwhf=yourgithubusername&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ydwhf&theme=radical)](https://git.io/streak-stats)
+
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ydwhf&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
