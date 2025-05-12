@@ -13,8 +13,9 @@ I also have a strong interest in mobile development, especially with **Kotlin** 
 - **Databases**: MySQL, Firebase
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yudawahfiudin)
-- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudawahfiudin)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/ydwhf)
+  
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ydwhf&show_icons=true&count_private=true&hide=prs&theme=radical)
