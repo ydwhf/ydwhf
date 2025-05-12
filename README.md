@@ -14,7 +14,7 @@ I also have a strong interest in mobile development, especially with **Kotlin** 
 
 ## 📫 How to Reach Me
 - **LinkedIn**: https://www.linkedin.com/in/yuda-wahfiudin-825bb4256
-
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yuda-wahfiudin)
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ydwhf&show_icons=true&count_private=true&hide=prs&theme=radical)
