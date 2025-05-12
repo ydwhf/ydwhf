@@ -14,5 +14,5 @@ I also have a strong interest in mobile development, especially with **Kotlin** 
 - **Databases**: MySQL, Firebase
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yuda-wahfiudin-825bb4256/])
+- **LinkedIn**: https://www.linkedin.com/in/yuda-wahfiudin-825bb4256
 
