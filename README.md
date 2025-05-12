@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Yuda Wahfiudin] 👋
 
-<!--
-**ydwhf/ydwhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** at **PT Kahatex**, currently working with **CodeIgniter 4** as my preferred PHP framework. I am passionate about creating efficient, scalable, and maintainable web applications.
 
-Here are some ideas to get you started:
+I also have a strong interest in mobile development, especially with **Kotlin** for building Android applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Work
+- Building modern web applications with **CodeIgniter 4** at **PT Kahatex**.
+- Developing mobile applications using **Kotlin**.
+
+## 💻 Technologies & Tools
+- **Languages**: PHP, Kotlin, JavaScript
+- **Frameworks**: CodeIgniter 4
+- **Databases**: MySQL, Firebase
+
+## 📫 How to Reach Me
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yuda-wahfiudin-825bb4256/))
+
